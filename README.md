@@ -2,7 +2,7 @@ Machine Learning Notebooks, 3rd edition
 =================================
 ### Vasanth's Notes 
 
-## Links
+#### Links
 Some help on prerequisites - https://colab.research.google.com/github/ageron/handson-ml3/blob/main/index.ipynb#Prerequisites
 
 
